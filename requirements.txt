@@ -1,0 +1,16 @@
+# DJ Library Manager — Python dependencies
+# Install: pip install -r requirements.txt
+#
+# System dependency (not pip):
+#   Linux:  sudo apt install libchromaprint-tools
+#   macOS:  brew install chromaprint
+#   Windows: download fpcalc from https://acoustid.org/chromaprint
+
+PySide6
+mutagen
+
+# MIME sniffing for library cleaner and converter
+# Linux/macOS:
+python-magic
+# Windows (bundles libmagic DLL — use this instead of python-magic on Windows):
+# python-magic-bin
