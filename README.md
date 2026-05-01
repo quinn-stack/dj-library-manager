@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-0.5.8-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-green)
-![License](https://img.shields.io/badge/license-GPL%20v2-orange)
+![License](https://img.shields.io/badge/license-GPL%20v3-orange)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
 ![Status](https://img.shields.io/badge/status-active%20development-yellow)
 
@@ -213,9 +213,9 @@ This feels worth stating plainly in an era where AI assistance is sometimes hidd
 
 ## License
 
-DJ Library Manager is released under the [GNU General Public License v2.0](LICENSE).
+DJ Library Manager is released under the [GNU General Public License v3.0](LICENSE).
 
-You are free to use, modify, and distribute this software under the terms of the GPL v2. Any derivative works must also be released under the GPL v2. This software must remain open source.
+You are free to use, modify, and distribute this software under the terms of the GPL v3. Any derivative works must also be released under the GPL v3. This software must remain open source.
 
 ---
 
