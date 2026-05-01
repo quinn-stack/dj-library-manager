@@ -213,9 +213,9 @@ This feels worth stating plainly in an era where AI assistance is sometimes hidd
 
 ## License
 
-DJ Library Manager is released under the [GNU General Public License v3.0](LICENSE).
+DJ Library Manager is released under the [GNU General Public License v2.0](LICENSE).
 
-You are free to use, modify, and distribute this software under the terms of the GPL v3. Any derivative works must also be released under the GPL v3. This software must remain open source.
+You are free to use, modify, and distribute this software under the terms of the GPL v2. Any derivative works must also be released under the GPL v2. This software must remain open source.
 
 ---
 
